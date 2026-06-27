@@ -1,17 +1,17 @@
-## 🌟 Doctor Appointment 
+##  Doctor Appointment 
 A minimal and elegant task manager built using Next.js and powered by the modern web stack.
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 This is a Next.js project bootstrapped with create-next-app.
 
-✅ Prerequisites
+ Prerequisites
 Ensure you have Node.js (v18 or later) installed.
 
 ---
 
-## 🔧 Installation
+##  Installation
 Clone the repository:
 
 bash
@@ -31,7 +31,7 @@ Open your browser at: http://localhost:3000
 
 ---
 
-## ✍️ Development
+##  Development
 Start editing by modifying the file:
 
 bash
@@ -40,10 +40,10 @@ The page auto-updates as you edit.
 
 ---
 
-## 🖋️ Typography
+##  Typography
 Uses the next/font module to optimize and load Geist Sans, a modern font by Vercel.
 
-🧠 Learn More
+ Learn More
 Next.js Docs – Learn about Next.js features and APIs.
 
 Learn Next.js – Interactive official tutorial.
@@ -52,7 +52,7 @@ Vercel – Deploy and host your apps seamlessly.
 
 ---
 
-## 🚀 Deployment
+##  Deployment
 Easily deploy this app using Vercel (recommended):
 
 Connect your GitHub repo to Vercel.
