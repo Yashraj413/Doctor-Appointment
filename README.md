@@ -43,7 +43,7 @@ The page auto-updates as you edit.
 ##  Typography
 Uses the next/font module to optimize and load Geist Sans, a modern font by Vercel.
 
- Learn More
+Learn More
 Next.js Docs – Learn about Next.js features and APIs.
 
 Learn Next.js – Interactive official tutorial.
